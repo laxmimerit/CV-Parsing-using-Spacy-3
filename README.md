@@ -1,5 +1,5 @@
-# Resume-and-CV-Summarization-and-Paring-with-Spacy-in-Python
-Resume and CV Summarization and Paring with Spacy in Python
+# Resume-and-CV-Summarization-and-Parsing-with-Spacy-in-Python
+Resume and CV Summarization and Parsing with Spacy in Python
 
 Download this required file and follw along the video with line by line code explanation. YouTube video is available at: 
 GitHub Repo for files: 
